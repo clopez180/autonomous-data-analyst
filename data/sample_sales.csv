@@ -1,0 +1,619 @@
+order_id,order_date,region,product,quantity,unit_price,channel
+A1000,15/06/2026,North America,Add-on Storage,,9.5,web
+A1001,2026-07-07,Europe,Pro Plan,2.0,$79.00,web
+A1002,2026-08-11, LATAM ,Pro Plan,1.0,$79.00,
+A1003,2026-01-31, LATAM ,Add-on Storage,2.0,9.5,web
+A1004,2026-07-23, LATAM ,Basic Plan,1.0,$29.00,sales
+A1005,2026-05-29, Europe ,Pro Plan,1.0,$79.00,partner
+A1006,2026-04-03,europe,Basic Plan,2.0,29.0,web
+A1007,02/02/2026,europe,Pro Plan,2.0,$79.00,
+A1008,2026-06-10,north america,Pro Plan,3.0,$79.00,sales
+A1009,2026-04-03, LATAM ,Team Plan,1.0,199.0,partner
+A1010,2026-09-26,north america,Pro Plan,4.0,$79.00,web
+A1011,2026-03-02,LATAM,Pro Plan,3.0,$79.00,
+A1012,2026-08-04, Europe ,Basic Plan,1.0,29.0,partner
+A1013,2026-06-24, Europe ,Team Plan,4.0,$199.00,
+A1014,05/02/2026, North America ,Add-on Storage,4.0,$9.50,web
+A1015,2026-02-01, North America ,Team Plan,5.0,199.0,
+A1016,2026-05-26,Europe,Team Plan,3.0,$199.00,
+A1017,2026-07-01,LATAM,Basic Plan,4.0,$29.00,sales
+A1018,2026-05-28,latam,Basic Plan,4.0,29.0,
+A1019,2026-02-11,north america,Basic Plan,5.0,$29.00,sales
+A1020,2026-08-09,north america,Add-on Storage,4.0,$9.50,
+A1021,29/04/2026,LATAM,Basic Plan,2.0,29.0,sales
+A1022,2026-01-07,europe,Pro Plan,2.0,$79.00,partner
+A1023,2026-01-03, Europe ,Basic Plan,,$29.00,partner
+A1024,2026-03-06, Europe ,Team Plan,5.0,199.0,web
+A1025,2026-08-22,europe,Add-on Storage,5.0,$9.50,
+A1026,2026-07-24,North America,Pro Plan,4.0,$79.00,sales
+A1027,2026-02-04,North America,Add-on Storage,2.0,9.5,partner
+A1028,27/01/2026, Europe ,Basic Plan,2.0,$29.00,web
+A1029,2026-07-06, LATAM ,Pro Plan,2.0,$79.00,
+A1030,2026-03-18,north america,Pro Plan,5.0,79.0,
+A1031,2026-03-04,north america,Basic Plan,4.0,$29.00,
+A1032,2026-06-09, LATAM ,Basic Plan,3.0,$29.00,partner
+A1033,2026-09-03,LATAM,Add-on Storage,5.0,9.5,sales
+A1034,2026-09-28,Europe,Pro Plan,5.0,$79.00,partner
+A1035,16/02/2026,north america,Team Plan,5.0,$199.00,sales
+A1036,2026-07-02, Europe ,Team Plan,5.0,199.0,partner
+A1037,2026-04-25,latam,Pro Plan,2.0,$79.00,sales
+A1038,2026-04-13,North America,Pro Plan,1.0,$79.00,partner
+A1039,2026-08-30,europe,Basic Plan,5.0,29.0,
+A1040,2026-06-28,North America,Add-on Storage,1.0,$9.50,web
+A1041,2026-04-27,north america,Pro Plan,2.0,$79.00,web
+A1042,03/09/2026, North America ,Add-on Storage,1.0,9.5,web
+A1043,2026-07-18,LATAM,Team Plan,4.0,$199.00,
+A1044,2026-06-20,europe,Basic Plan,4.0,$29.00,
+A1045,2026-02-13,LATAM,Team Plan,2.0,199.0,sales
+A1046,2026-08-27, LATAM ,Add-on Storage,,$9.50,
+A1047,2026-06-29,Europe,Basic Plan,2.0,$29.00,web
+A1048,2026-02-22,LATAM,Pro Plan,4.0,79.0,sales
+A1049,15/01/2026,North America,Basic Plan,5.0,$29.00,partner
+A1050,2026-05-13, LATAM ,Pro Plan,1.0,$79.00,partner
+A1051,2026-08-23, Europe ,Team Plan,4.0,199.0,sales
+A1052,2026-03-19,LATAM,Pro Plan,4.0,$79.00,web
+A1053,2026-03-18, North America ,Basic Plan,5.0,$29.00,web
+A1054,2026-02-01, Europe ,Basic Plan,5.0,29.0,
+A1055,2026-02-24,LATAM,Add-on Storage,2.0,$9.50,partner
+A1056,22/01/2026, Europe ,Team Plan,4.0,$199.00,web
+A1057,2026-02-02, Europe ,Pro Plan,5.0,79.0,sales
+A1058,2026-05-22, Europe ,Pro Plan,4.0,$79.00,sales
+A1059,2026-09-25,North America,Add-on Storage,5.0,$9.50,
+A1060,2026-03-12,north america,Pro Plan,4.0,79.0,web
+A1061,2026-05-04,LATAM,Pro Plan,3.0,$79.00,sales
+A1062,2026-07-07,LATAM,Basic Plan,4.0,$29.00,web
+A1063,23/07/2026,LATAM,Add-on Storage,2.0,9.5,
+A1064,2026-09-21,north america,Pro Plan,2.0,$79.00,partner
+A1065,2026-02-17, LATAM ,Team Plan,3.0,$199.00,
+A1066,2026-08-14, North America ,Team Plan,3.0,199.0,partner
+A1067,2026-09-20,LATAM,Add-on Storage,2.0,$9.50,web
+A1068,2026-05-16,LATAM,Basic Plan,3.0,$29.00,
+A1069,2026-05-13, Europe ,Pro Plan,,79.0,
+A1070,17/06/2026,latam,Basic Plan,2.0,$29.00,web
+A1071,2026-05-18,europe,Add-on Storage,1.0,$9.50,web
+A1072,2026-04-24,LATAM,Basic Plan,4.0,29.0,partner
+A1073,2026-08-02,North America,Add-on Storage,5.0,$9.50,web
+A1074,2026-09-27,latam,Team Plan,2.0,$199.00,web
+A1075,2026-04-03, North America ,Basic Plan,3.0,29.0,sales
+A1076,2026-05-29,europe,Pro Plan,2.0,$79.00,partner
+A1077,10/01/2026,LATAM,Add-on Storage,1.0,$9.50,sales
+A1078,2026-09-21, North America ,Pro Plan,1.0,79.0,
+A1079,2026-09-11,north america,Pro Plan,5.0,$79.00,sales
+A1080,2026-04-28,europe,Basic Plan,2.0,$29.00,partner
+A1081,2026-01-28, LATAM ,Add-on Storage,1.0,9.5,partner
+A1082,2026-08-09, LATAM ,Basic Plan,4.0,$29.00,partner
+A1083,2026-05-05,LATAM,Team Plan,4.0,$199.00,sales
+A1084,18/05/2026,north america,Pro Plan,3.0,79.0,partner
+A1085,2026-05-06,north america,Basic Plan,2.0,$29.00,sales
+A1086,2026-01-01,latam,Basic Plan,4.0,$29.00,sales
+A1087,2026-05-08,latam,Pro Plan,1.0,79.0,web
+A1088,2026-03-15,LATAM,Pro Plan,4.0,$79.00,partner
+A1089,2026-06-05, LATAM ,Pro Plan,5.0,$79.00,sales
+A1090,2026-07-19,Europe,Team Plan,4.0,199.0,partner
+A1091,16/03/2026, Europe ,Basic Plan,5.0,$29.00,
+A1092,2026-09-16, Europe ,Basic Plan,,$29.00,web
+A1093,2026-04-28, LATAM ,Basic Plan,2.0,29.0,partner
+A1094,2026-02-23,North America,Pro Plan,5.0,$79.00,web
+A1095,2026-05-06,LATAM,Pro Plan,4.0,$79.00,web
+A1096,2026-09-27,europe,Basic Plan,4.0,29.0,web
+A1097,2026-05-16, LATAM ,Basic Plan,2.0,$29.00,
+A1098,10/09/2026, LATAM ,Add-on Storage,4.0,$9.50,partner
+A1099,2026-01-24,Europe,Pro Plan,2.0,79.0,sales
+A1100,2026-06-19, Europe ,Basic Plan,3.0,$29.00,sales
+A1101,2026-01-07, North America ,Pro Plan,3.0,$79.00,web
+A1102,2026-04-22,north america,Team Plan,5.0,199.0,
+A1103,2026-08-27,LATAM,Pro Plan,5.0,$79.00,partner
+A1104,2026-02-13,latam,Add-on Storage,3.0,$9.50,web
+A1105,17/09/2026,north america,Add-on Storage,3.0,9.5,sales
+A1106,2026-04-18, LATAM ,Basic Plan,2.0,$29.00,partner
+A1107,2026-07-04,europe,Basic Plan,5.0,$29.00,web
+A1108,2026-07-06,North America,Basic Plan,4.0,29.0,sales
+A1109,2026-01-02,europe,Add-on Storage,4.0,$9.50,partner
+A1110,2026-03-14,North America,Pro Plan,3.0,$79.00,partner
+A1111,2026-01-01,North America,Basic Plan,4.0,29.0,sales
+A1112,07/01/2026,north america,Add-on Storage,3.0,$9.50,web
+A1113,2026-07-21,europe,Pro Plan,1.0,$79.00,
+A1114,2026-05-21,North America,Add-on Storage,1.0,9.5,partner
+A1115,2026-03-18, North America ,Basic Plan,,$29.00,partner
+A1116,2026-04-08, North America ,Team Plan,1.0,$199.00,
+A1117,2026-04-15,latam,Team Plan,4.0,199.0,sales
+A1118,2026-05-27,Europe,Pro Plan,2.0,$79.00,
+A1119,01/08/2026, North America ,Basic Plan,3.0,$29.00,partner
+A1120,2026-07-27, North America ,Team Plan,4.0,199.0,
+A1121,2026-03-03,LATAM,Basic Plan,1.0,$29.00,
+A1122,2026-04-23,north america,Pro Plan,4.0,$79.00,sales
+A1123,2026-04-09, LATAM ,Basic Plan,3.0,29.0,web
+A1124,2026-06-13,North America,Basic Plan,5.0,$29.00,web
+A1125,2026-07-31,Europe,Pro Plan,5.0,$79.00,
+A1126,19/05/2026,latam,Basic Plan,4.0,29.0,partner
+A1127,2026-03-06,Europe,Team Plan,2.0,$199.00,partner
+A1128,2026-05-08,europe,Pro Plan,4.0,$79.00,partner
+A1129,2026-01-12, North America ,Basic Plan,4.0,29.0,
+A1130,2026-01-01,europe,Basic Plan,4.0,$29.00,sales
+A1131,2026-02-25, LATAM ,Basic Plan,5.0,$29.00,web
+A1132,2026-08-23,LATAM,Basic Plan,1.0,29.0,sales
+A1133,20/01/2026, North America ,Team Plan,2.0,$199.00,partner
+A1134,2026-09-28,Europe,Pro Plan,1.0,$79.00,web
+A1135,2026-06-03,europe,Pro Plan,2.0,79.0,partner
+A1136,2026-04-25, LATAM ,Add-on Storage,1.0,$9.50,partner
+A1137,2026-08-24,north america,Basic Plan,2.0,$29.00,sales
+A1138,2026-05-07,North America,Basic Plan,,29.0,web
+A1139,2026-04-10,Europe,Pro Plan,4.0,$79.00,partner
+A1140,27/04/2026,north america,Team Plan,2.0,$199.00,web
+A1141,2026-06-23,North America,Team Plan,4.0,199.0,web
+A1142,2026-05-30,Europe,Team Plan,1.0,$199.00,
+A1143,2026-04-13,latam,Basic Plan,2.0,$29.00,sales
+A1144,2026-05-16, North America ,Team Plan,1.0,199.0,
+A1145,2026-04-06, North America ,Add-on Storage,4.0,$9.50,web
+A1146,2026-03-16,LATAM,Add-on Storage,2.0,$9.50,sales
+A1147,01/08/2026,latam,Basic Plan,2.0,29.0,
+A1148,2026-06-10,latam,Team Plan,2.0,$199.00,sales
+A1149,2026-04-05,Europe,Team Plan,4.0,$199.00,partner
+A1150,2026-07-13,North America,Add-on Storage,4.0,9.5,web
+A1151,2026-01-02,latam,Basic Plan,3.0,$29.00,web
+A1152,2026-04-17,North America,Pro Plan,4.0,$79.00,web
+A1153,2026-08-31,Europe,Basic Plan,4.0,29.0,partner
+A1154,06/07/2026, North America ,Team Plan,1.0,$199.00,
+A1155,2026-05-07,north america,Add-on Storage,1.0,$9.50,web
+A1156,2026-08-26,LATAM,Basic Plan,3.0,29.0,web
+A1157,2026-06-23,North America,Pro Plan,5.0,$79.00,partner
+A1158,2026-06-12, North America ,Add-on Storage,1.0,$9.50,web
+A1159,2026-01-13, LATAM ,Add-on Storage,4.0,9.5,
+A1160,2026-07-17,North America,Add-on Storage,4.0,$9.50,
+A1161,04/04/2026, Europe ,Basic Plan,,$29.00,sales
+A1162,2026-05-01,north america,Basic Plan,4.0,29.0,web
+A1163,2026-09-20,latam,Basic Plan,2.0,$29.00,web
+A1164,2026-01-18,Europe,Pro Plan,3.0,$79.00,
+A1165,2026-02-23,North America,Add-on Storage,5.0,9.5,sales
+A1166,2026-02-19,Europe,Pro Plan,4.0,$79.00,sales
+A1167,2026-03-10, Europe ,Pro Plan,2.0,$79.00,web
+A1168,31/05/2026,europe,Basic Plan,3.0,29.0,partner
+A1169,2026-05-14,LATAM,Basic Plan,2.0,$29.00,sales
+A1170,2026-03-20,europe,Basic Plan,2.0,$29.00,web
+A1171,2026-07-22, LATAM ,Basic Plan,5.0,29.0,sales
+A1172,2026-02-21,LATAM,Team Plan,1.0,$199.00,
+A1173,2026-04-29,north america,Add-on Storage,1.0,$9.50,sales
+A1174,2026-03-03,Europe,Basic Plan,5.0,29.0,web
+A1175,10/07/2026, LATAM ,Pro Plan,4.0,$79.00,partner
+A1176,2026-01-04,europe,Basic Plan,5.0,$29.00,sales
+A1177,2026-01-20,LATAM,Pro Plan,1.0,79.0,partner
+A1178,2026-01-20,Europe,Pro Plan,2.0,$79.00,partner
+A1179,2026-07-29,latam,Team Plan,5.0,$199.00,web
+A1180,2026-04-15,north america,Basic Plan,5.0,29.0,web
+A1181,2026-07-28,North America,Basic Plan,5.0,$29.00,web
+A1182,25/03/2026,north america,Pro Plan,4.0,$79.00,partner
+A1183,2026-08-02,north america,Add-on Storage,5.0,9.5,
+A1184,2026-08-02,north america,Basic Plan,,$29.00,
+A1185,2026-04-15,north america,Add-on Storage,2.0,$9.50,web
+A1186,2026-02-16,North America,Pro Plan,4.0,79.0,sales
+A1187,2026-01-08,LATAM,Basic Plan,4.0,$29.00,partner
+A1188,2026-09-16,North America,Basic Plan,3.0,$29.00,sales
+A1189,04/02/2026,north america,Basic Plan,2.0,29.0,sales
+A1190,2026-01-23,North America,Add-on Storage,3.0,$9.50,
+A1191,2026-02-14, Europe ,Add-on Storage,2.0,$9.50,sales
+A1192,2026-07-27,LATAM,Pro Plan,4.0,79.0,sales
+A1193,2026-01-22,europe,Pro Plan,2.0,$79.00,partner
+A1194,2026-03-05,Europe,Basic Plan,2.0,$29.00,web
+A1195,2026-06-15, Europe ,Basic Plan,4.0,29.0,partner
+A1196,04/08/2026,latam,Basic Plan,4.0,$29.00,partner
+A1197,2026-08-17,LATAM,Pro Plan,1.0,$79.00,
+A1198,2026-08-27,Europe,Basic Plan,4.0,29.0,
+A1199,2026-07-24,latam,Basic Plan,3.0,$29.00,partner
+A1200,2026-02-16, Europe ,Add-on Storage,5.0,$9.50,web
+A1201,2026-01-21, LATAM ,Pro Plan,3.0,79.0,web
+A1202,2026-01-28,North America,Team Plan,2.0,$199.00,web
+A1203,26/02/2026,North America,Basic Plan,3.0,$29.00,sales
+A1204,2026-02-03,Europe,Add-on Storage,3.0,9.5,partner
+A1205,2026-05-21,north america,Add-on Storage,2.0,$9.50,
+A1206,2026-04-17,Europe,Pro Plan,5.0,$79.00,partner
+A1207,2026-07-10,LATAM,Basic Plan,,29.0,partner
+A1208,2026-06-17,LATAM,Add-on Storage,3.0,$9.50,web
+A1209,2026-07-04, North America ,Add-on Storage,5.0,$9.50,web
+A1210,10/05/2026, Europe ,Add-on Storage,4.0,9.5,partner
+A1211,2026-05-16,North America,Pro Plan,5.0,$79.00,partner
+A1212,2026-06-19,North America,Team Plan,2.0,$199.00,web
+A1213,2026-06-01, North America ,Add-on Storage,3.0,9.5,partner
+A1214,2026-01-01,latam,Team Plan,2.0,$199.00,
+A1215,2026-08-02,latam,Pro Plan,2.0,$79.00,sales
+A1216,2026-01-24,latam,Basic Plan,5.0,29.0,partner
+A1217,24/02/2026,europe,Pro Plan,2.0,$79.00,partner
+A1218,2026-03-10,Europe,Basic Plan,4.0,$29.00,sales
+A1219,2026-01-08,latam,Add-on Storage,2.0,9.5,web
+A1220,2026-02-02,europe,Pro Plan,3.0,$79.00,partner
+A1221,2026-01-06, Europe ,Basic Plan,3.0,$29.00,
+A1222,2026-09-23,LATAM,Team Plan,2.0,199.0,web
+A1223,2026-02-01,North America,Pro Plan,2.0,$79.00,sales
+A1224,30/01/2026, LATAM ,Add-on Storage,1.0,$9.50,sales
+A1225,2026-03-14, Europe ,Pro Plan,5.0,79.0,
+A1226,2026-03-31, LATAM ,Pro Plan,3.0,$79.00,web
+A1227,2026-09-02,latam,Team Plan,4.0,$199.00,
+A1228,2026-02-11,North America,Team Plan,2.0,199.0,web
+A1229,2026-05-14,latam,Basic Plan,1.0,$29.00,partner
+A1230,2026-01-27, Europe ,Basic Plan,,$29.00,partner
+A1231,01/06/2026, LATAM ,Pro Plan,1.0,79.0,web
+A1232,2026-03-28,LATAM,Basic Plan,2.0,$29.00,partner
+A1233,2026-04-09,North America,Add-on Storage,5.0,$9.50,
+A1234,2026-08-29,Europe,Pro Plan,1.0,79.0,
+A1235,2026-04-30,north america,Pro Plan,2.0,$79.00,web
+A1236,2026-03-29,LATAM,Basic Plan,1.0,$29.00,sales
+A1237,2026-06-26,Europe,Add-on Storage,1.0,9.5,web
+A1238,12/03/2026, Europe ,Team Plan,1.0,$199.00,web
+A1239,2026-01-24,Europe,Basic Plan,3.0,$29.00,web
+A1240,2026-07-16,LATAM,Basic Plan,2.0,29.0,web
+A1241,2026-01-18, Europe ,Add-on Storage,1.0,$9.50,partner
+A1242,2026-09-02,latam,Basic Plan,2.0,$29.00,partner
+A1243,2026-06-22,latam,Pro Plan,3.0,79.0,partner
+A1244,2026-01-25, North America ,Team Plan,3.0,$199.00,
+A1245,28/05/2026,LATAM,Pro Plan,4.0,$79.00,
+A1246,2026-09-23, North America ,Team Plan,4.0,199.0,web
+A1247,2026-04-21,latam,Team Plan,5.0,$199.00,sales
+A1248,2026-08-12,LATAM,Basic Plan,3.0,$29.00,web
+A1249,2026-06-28,north america,Pro Plan,2.0,79.0,partner
+A1250,2026-09-21,LATAM,Basic Plan,3.0,$29.00,sales
+A1251,2026-09-13,europe,Basic Plan,1.0,$29.00,web
+A1252,17/06/2026, North America ,Basic Plan,4.0,29.0,web
+A1253,2026-08-05,LATAM,Add-on Storage,,$9.50,partner
+A1254,2026-05-15,Europe,Pro Plan,5.0,$79.00,
+A1255,2026-04-30, LATAM ,Add-on Storage,5.0,9.5,web
+A1256,2026-06-28,europe,Pro Plan,2.0,$79.00,partner
+A1257,2026-03-28, Europe ,Pro Plan,3.0,$79.00,sales
+A1258,2026-03-06, Europe ,Basic Plan,2.0,29.0,sales
+A1259,17/05/2026,Europe,Basic Plan,5.0,$29.00,sales
+A1260,2026-05-07,europe,Team Plan,5.0,$199.00,sales
+A1261,2026-05-01, LATAM ,Basic Plan,3.0,29.0,web
+A1262,2026-03-26,latam,Add-on Storage,2.0,$9.50,sales
+A1263,2026-03-17,europe,Add-on Storage,3.0,$9.50,partner
+A1264,2026-04-11,LATAM,Basic Plan,3.0,29.0,
+A1265,2026-08-26, North America ,Basic Plan,4.0,$29.00,sales
+A1266,14/09/2026,North America,Add-on Storage,4.0,$9.50,sales
+A1267,2026-05-12, North America ,Pro Plan,1.0,79.0,sales
+A1268,2026-08-09,Europe,Team Plan,4.0,$199.00,sales
+A1269,2026-04-03,north america,Pro Plan,4.0,$79.00,partner
+A1270,2026-02-20, LATAM ,Add-on Storage,4.0,9.5,sales
+A1271,2026-05-09,North America,Add-on Storage,4.0,$9.50,
+A1272,2026-09-23,LATAM,Team Plan,3.0,$199.00,
+A1273,08/09/2026,latam,Add-on Storage,1.0,9.5,sales
+A1274,2026-03-24,latam,Team Plan,5.0,$199.00,web
+A1275,2026-08-22, Europe ,Pro Plan,4.0,$79.00,web
+A1276,2026-07-09,North America,Pro Plan,,79.0,sales
+A1277,2026-07-20,latam,Pro Plan,5.0,$79.00,web
+A1278,2026-05-10,North America,Basic Plan,1.0,$29.00,web
+A1279,2026-08-03, Europe ,Add-on Storage,3.0,9.5,partner
+A1280,25/02/2026, Europe ,Basic Plan,4.0,$29.00,sales
+A1281,2026-07-20,LATAM,Pro Plan,2.0,$79.00,sales
+A1282,2026-08-29,Europe,Pro Plan,2.0,79.0,partner
+A1283,2026-07-31, North America ,Pro Plan,5.0,$79.00,sales
+A1284,2026-08-29, LATAM ,Basic Plan,3.0,$29.00,
+A1285,2026-05-10,europe,Add-on Storage,2.0,9.5,web
+A1286,2026-05-24,europe,Pro Plan,3.0,$79.00,
+A1287,06/09/2026, Europe ,Pro Plan,1.0,$79.00,partner
+A1288,2026-03-20,North America,Add-on Storage,1.0,9.5,partner
+A1289,2026-03-13,North America,Pro Plan,5.0,$79.00,web
+A1290,2026-04-18,europe,Add-on Storage,3.0,$9.50,web
+A1291,2026-03-15,latam,Add-on Storage,4.0,9.5,sales
+A1292,2026-04-17, Europe ,Add-on Storage,2.0,$9.50,web
+A1293,2026-06-02, Europe ,Basic Plan,2.0,$29.00,web
+A1294,13/08/2026,LATAM,Team Plan,5.0,199.0,partner
+A1295,2026-08-03,latam,Basic Plan,4.0,$29.00,web
+A1296,2026-09-05,LATAM,Pro Plan,4.0,$79.00,
+A1297,2026-03-26,Europe,Pro Plan,1.0,79.0,partner
+A1298,2026-08-28,north america,Team Plan,3.0,$199.00,partner
+A1299,2026-08-07,Europe,Pro Plan,,$79.00,partner
+A1300,2026-01-15,LATAM,Basic Plan,3.0,29.0,
+A1301,06/09/2026,LATAM,Team Plan,1.0,$199.00,
+A1302,2026-03-06,europe,Basic Plan,3.0,$29.00,
+A1303,2026-09-27,latam,Pro Plan,3.0,79.0,partner
+A1304,2026-08-05,latam,Basic Plan,3.0,$29.00,partner
+A1305,2026-09-10, Europe ,Pro Plan,3.0,$79.00,partner
+A1306,2026-04-15,LATAM,Team Plan,3.0,199.0,partner
+A1307,2026-06-03,Europe,Basic Plan,1.0,$29.00,
+A1308,27/07/2026,latam,Pro Plan,4.0,$79.00,web
+A1309,2026-01-04, North America ,Basic Plan,5.0,29.0,web
+A1310,2026-09-14, Europe ,Add-on Storage,4.0,$9.50,sales
+A1311,2026-02-12, Europe ,Basic Plan,4.0,$29.00,sales
+A1312,2026-02-21,LATAM,Team Plan,4.0,199.0,web
+A1313,2026-07-08, LATAM ,Add-on Storage,3.0,$9.50,partner
+A1314,2026-06-04,LATAM,Basic Plan,3.0,$29.00,
+A1315,28/01/2026,Europe,Pro Plan,1.0,79.0,
+A1316,2026-07-27, LATAM ,Pro Plan,4.0,$79.00,sales
+A1317,2026-09-01,Europe,Team Plan,1.0,$199.00,
+A1318,2026-04-19,europe,Add-on Storage,1.0,9.5,web
+A1319,2026-01-05,LATAM,Team Plan,1.0,$199.00,web
+A1320,2026-03-08,North America,Pro Plan,5.0,$79.00,
+A1321,2026-04-06, North America ,Add-on Storage,2.0,9.5,web
+A1322,31/05/2026,europe,Pro Plan,,$79.00,partner
+A1323,2026-01-27,LATAM,Team Plan,1.0,$199.00,web
+A1324,2026-07-19,Europe,Basic Plan,5.0,29.0,
+A1325,2026-01-31,europe,Basic Plan,4.0,$29.00,sales
+A1326,2026-03-16, LATAM ,Add-on Storage,3.0,$9.50,sales
+A1327,2026-08-02, North America ,Pro Plan,3.0,79.0,partner
+A1328,2026-05-30,europe,Basic Plan,5.0,$29.00,web
+A1329,19/03/2026,north america,Pro Plan,5.0,$79.00,sales
+A1330,2026-07-12,North America,Pro Plan,5.0,79.0,
+A1331,2026-05-26,north america,Team Plan,3.0,$199.00,
+A1332,2026-03-22,LATAM,Pro Plan,3.0,$79.00,sales
+A1333,2026-05-21,europe,Add-on Storage,4.0,9.5,web
+A1334,2026-09-06,latam,Add-on Storage,2.0,$9.50,web
+A1335,2026-07-22, LATAM ,Pro Plan,3.0,$79.00,web
+A1336,17/07/2026,latam,Pro Plan,5.0,79.0,web
+A1337,2026-04-30, Europe ,Pro Plan,3.0,$79.00,partner
+A1338,2026-09-02,LATAM,Pro Plan,2.0,$79.00,sales
+A1339,2026-02-17,europe,Basic Plan,3.0,29.0,partner
+A1340,2026-07-26,LATAM,Team Plan,2.0,$199.00,
+A1341,2026-07-11,North America,Add-on Storage,4.0,$9.50,sales
+A1342,2026-06-11, North America ,Pro Plan,3.0,79.0,web
+A1343,18/02/2026, Europe ,Basic Plan,4.0,$29.00,sales
+A1344,2026-05-14,North America,Add-on Storage,4.0,$9.50,
+A1345,2026-03-09,LATAM,Basic Plan,,29.0,sales
+A1346,2026-07-13, LATAM ,Basic Plan,1.0,$29.00,partner
+A1347,2026-08-23, LATAM ,Pro Plan,5.0,$79.00,
+A1348,2026-03-03,latam,Team Plan,3.0,199.0,sales
+A1349,2026-02-15,europe,Add-on Storage,5.0,$9.50,sales
+A1350,18/08/2026, North America ,Add-on Storage,2.0,$9.50,sales
+A1351,2026-03-30,North America,Basic Plan,3.0,29.0,web
+A1352,2026-01-25,Europe,Basic Plan,4.0,$29.00,web
+A1353,2026-03-16, LATAM ,Basic Plan,2.0,$29.00,partner
+A1354,2026-08-14,latam,Team Plan,4.0,199.0,partner
+A1355,2026-05-12,north america,Pro Plan,4.0,$79.00,sales
+A1356,2026-08-14,latam,Basic Plan,1.0,$29.00,sales
+A1357,19/01/2026, LATAM ,Basic Plan,1.0,29.0,partner
+A1358,2026-03-13,LATAM,Team Plan,4.0,$199.00,web
+A1359,2026-08-20,north america,Add-on Storage,2.0,$9.50,web
+A1360,2026-07-07,LATAM,Basic Plan,1.0,29.0,
+A1361,2026-03-16,latam,Pro Plan,3.0,$79.00,
+A1362,2026-05-07,north america,Basic Plan,5.0,$29.00,partner
+A1363,2026-03-27,latam,Basic Plan,3.0,29.0,
+A1364,28/02/2026, Europe ,Basic Plan,1.0,$29.00,sales
+A1365,2026-09-02,LATAM,Add-on Storage,3.0,$9.50,partner
+A1366,2026-08-10,LATAM,Add-on Storage,2.0,9.5,
+A1367,2026-05-29, LATAM ,Pro Plan,1.0,$79.00,partner
+A1368,2026-03-15, LATAM ,Add-on Storage,,$9.50,partner
+A1369,2026-09-19,latam,Basic Plan,5.0,29.0,sales
+A1370,2026-07-04,north america,Pro Plan,2.0,$79.00,sales
+A1371,12/03/2026, Europe ,Add-on Storage,2.0,$9.50,sales
+A1372,2026-04-11, LATAM ,Pro Plan,5.0,79.0,
+A1373,2026-05-21, LATAM ,Basic Plan,5.0,$29.00,sales
+A1374,2026-06-07,latam,Basic Plan,5.0,$29.00,web
+A1375,2026-09-23, North America ,Add-on Storage,3.0,9.5,
+A1376,2026-02-16, North America ,Basic Plan,2.0,$29.00,partner
+A1377,2026-05-08,North America,Basic Plan,1.0,$29.00,partner
+A1378,03/01/2026,North America,Basic Plan,5.0,29.0,web
+A1379,2026-07-02, North America ,Team Plan,4.0,$199.00,web
+A1380,2026-05-30,europe,Add-on Storage,4.0,$9.50,web
+A1381,2026-03-10, LATAM ,Basic Plan,2.0,29.0,sales
+A1382,2026-03-27,North America,Basic Plan,5.0,$29.00,web
+A1383,2026-02-19,europe,Add-on Storage,2.0,$9.50,web
+A1384,2026-08-26,Europe,Pro Plan,4.0,79.0,partner
+A1385,18/02/2026,LATAM,Team Plan,3.0,$199.00,
+A1386,2026-09-10,North America,Pro Plan,1.0,$79.00,web
+A1387,2026-07-27,Europe,Add-on Storage,5.0,9.5,sales
+A1388,2026-03-17,North America,Team Plan,4.0,$199.00,web
+A1389,2026-07-19, Europe ,Team Plan,5.0,$199.00,web
+A1390,2026-07-22,latam,Add-on Storage,3.0,9.5,
+A1391,2026-05-04, Europe ,Add-on Storage,,$9.50,partner
+A1392,25/07/2026, LATAM ,Add-on Storage,3.0,$9.50,sales
+A1393,2026-06-30,north america,Basic Plan,1.0,29.0,web
+A1394,2026-04-06, North America ,Basic Plan,2.0,$29.00,web
+A1395,2026-04-26, North America ,Basic Plan,4.0,$29.00,web
+A1396,2026-01-21,europe,Basic Plan,5.0,29.0,partner
+A1397,2026-01-19, North America ,Pro Plan,1.0,$79.00,web
+A1398,2026-08-11,LATAM,Basic Plan,3.0,$29.00,partner
+A1399,27/06/2026, LATAM ,Team Plan,1.0,199.0,partner
+A1400,2026-02-13,europe,Pro Plan,2.0,$79.00,web
+A1401,2026-09-19, North America ,Basic Plan,4.0,$29.00,partner
+A1402,2026-05-21,latam,Basic Plan,5.0,29.0,
+A1403,2026-04-24, LATAM ,Team Plan,5.0,$199.00,partner
+A1404,2026-08-24,north america,Add-on Storage,5.0,$9.50,
+A1405,2026-06-08,North America,Basic Plan,2.0,29.0,
+A1406,22/07/2026,North America,Basic Plan,2.0,$29.00,partner
+A1407,2026-06-16,north america,Pro Plan,2.0,$79.00,web
+A1408,2026-01-12,latam,Basic Plan,5.0,29.0,
+A1409,2026-02-01, North America ,Pro Plan,3.0,$79.00,web
+A1410,2026-09-24,europe,Basic Plan,2.0,$29.00,partner
+A1411,2026-06-30, LATAM ,Basic Plan,5.0,29.0,partner
+A1412,2026-09-23,europe,Basic Plan,4.0,$29.00,sales
+A1413,31/07/2026, LATAM ,Add-on Storage,4.0,$9.50,web
+A1414,2026-09-12,europe,Pro Plan,,79.0,partner
+A1415,2026-02-26,north america,Pro Plan,4.0,$79.00,partner
+A1416,2026-05-30, Europe ,Basic Plan,5.0,$29.00,
+A1417,2026-06-14,europe,Basic Plan,4.0,29.0,
+A1418,2026-06-03,north america,Basic Plan,2.0,$29.00,
+A1419,2026-04-29, North America ,Basic Plan,3.0,$29.00,sales
+A1420,16/06/2026,North America,Basic Plan,1.0,29.0,web
+A1421,2026-05-12, North America ,Pro Plan,3.0,$79.00,partner
+A1422,2026-08-12,europe,Pro Plan,4.0,$79.00,
+A1423,2026-07-03,europe,Basic Plan,3.0,29.0,web
+A1424,2026-02-04,latam,Pro Plan,4.0,$79.00,
+A1425,2026-03-20,north america,Add-on Storage,4.0,$9.50,
+A1426,2026-06-25,Europe,Team Plan,1.0,199.0,partner
+A1427,12/06/2026, LATAM ,Pro Plan,3.0,$79.00,sales
+A1428,2026-02-26, North America ,Team Plan,3.0,$199.00,
+A1429,2026-03-22, Europe ,Pro Plan,2.0,79.0,sales
+A1430,2026-07-31, Europe ,Basic Plan,5.0,$29.00,web
+A1431,2026-06-30, Europe ,Pro Plan,1.0,$79.00,
+A1432,2026-01-06,North America,Add-on Storage,5.0,9.5,partner
+A1433,2026-07-23, Europe ,Add-on Storage,1.0,$9.50,web
+A1434,11/04/2026,europe,Basic Plan,5.0,$29.00,sales
+A1435,2026-04-12,LATAM,Pro Plan,2.0,79.0,web
+A1436,2026-01-15,latam,Basic Plan,5.0,$29.00,
+A1437,2026-08-09, LATAM ,Add-on Storage,,$9.50,partner
+A1438,2026-03-15,North America,Team Plan,3.0,199.0,web
+A1439,2026-05-17,europe,Pro Plan,1.0,$79.00,sales
+A1440,2026-08-19,LATAM,Pro Plan,1.0,$79.00,
+A1441,23/01/2026,Europe,Pro Plan,2.0,79.0,sales
+A1442,2026-01-23,europe,Basic Plan,2.0,$29.00,web
+A1443,2026-08-22,europe,Basic Plan,3.0,$29.00,web
+A1444,2026-05-05,Europe,Team Plan,5.0,199.0,
+A1445,2026-06-08,Europe,Pro Plan,4.0,$79.00,sales
+A1446,2026-02-14,North America,Basic Plan,4.0,$29.00,web
+A1447,2026-05-29,north america,Pro Plan,1.0,79.0,
+A1448,21/06/2026,latam,Pro Plan,1.0,$79.00,partner
+A1449,2026-05-06,north america,Pro Plan,3.0,$79.00,sales
+A1450,2026-08-12,europe,Basic Plan,1.0,29.0,sales
+A1451,2026-05-04,latam,Team Plan,2.0,$199.00,sales
+A1452,2026-08-15,latam,Pro Plan,2.0,$79.00,partner
+A1453,2026-04-21,North America,Team Plan,5.0,199.0,partner
+A1454,2026-09-01, LATAM ,Pro Plan,4.0,$79.00,sales
+A1455,14/05/2026,north america,Pro Plan,5.0,$79.00,sales
+A1456,2026-07-26,LATAM,Pro Plan,2.0,79.0,web
+A1457,2026-05-19, North America ,Team Plan,1.0,$199.00,sales
+A1458,2026-06-09, Europe ,Basic Plan,1.0,$29.00,sales
+A1459,2026-04-29,Europe,Basic Plan,1.0,29.0,partner
+A1460,2026-09-14, LATAM ,Team Plan,,$199.00,partner
+A1461,2026-02-15,latam,Basic Plan,4.0,$29.00,partner
+A1462,26/07/2026,north america,Add-on Storage,2.0,9.5,sales
+A1463,2026-01-16,europe,Pro Plan,3.0,$79.00,web
+A1464,2026-08-25, North America ,Basic Plan,3.0,$29.00,web
+A1465,2026-04-04, North America ,Basic Plan,5.0,29.0,sales
+A1466,2026-01-21,europe,Pro Plan,2.0,$79.00,sales
+A1467,2026-06-05, Europe ,Basic Plan,1.0,$29.00,partner
+A1468,2026-04-02,latam,Pro Plan,5.0,79.0,partner
+A1469,11/08/2026,Europe,Team Plan,3.0,$199.00,web
+A1470,2026-05-27, Europe ,Add-on Storage,5.0,$9.50,web
+A1471,2026-05-06,LATAM,Team Plan,3.0,199.0,partner
+A1472,2026-02-14, Europe ,Pro Plan,4.0,$79.00,sales
+A1473,2026-05-24,north america,Pro Plan,4.0,$79.00,partner
+A1474,2026-09-15, Europe ,Team Plan,4.0,199.0,web
+A1475,2026-04-16,europe,Pro Plan,2.0,$79.00,sales
+A1476,23/01/2026,Europe,Add-on Storage,3.0,$9.50,sales
+A1477,2026-05-01,LATAM,Pro Plan,1.0,79.0,partner
+A1478,2026-06-27,LATAM,Pro Plan,3.0,$79.00,sales
+A1479,2026-09-07,LATAM,Team Plan,2.0,$199.00,
+A1480,2026-03-10,North America,Add-on Storage,3.0,9.5,sales
+A1481,2026-05-04,latam,Basic Plan,5.0,$29.00,sales
+A1482,2026-03-21,North America,Pro Plan,4.0,$79.00,web
+A1483,29/05/2026,North America,Basic Plan,,29.0,web
+A1484,2026-05-24,latam,Basic Plan,3.0,$29.00,web
+A1485,2026-03-24,north america,Basic Plan,5.0,$29.00,partner
+A1486,2026-03-28,latam,Pro Plan,1.0,79.0,
+A1487,2026-02-12,north america,Team Plan,5.0,$199.00,web
+A1488,2026-09-08, North America ,Add-on Storage,2.0,$9.50,partner
+A1489,2026-01-05, LATAM ,Pro Plan,3.0,79.0,partner
+A1490,06/05/2026,Europe,Basic Plan,1.0,$29.00,
+A1491,2026-03-16, LATAM ,Basic Plan,5.0,$29.00,sales
+A1492,2026-02-22,north america,Team Plan,5.0,199.0,
+A1493,2026-04-05,North America,Team Plan,3.0,$199.00,partner
+A1494,2026-03-11,North America,Pro Plan,3.0,$79.00,web
+A1495,2026-01-22,Europe,Basic Plan,4.0,29.0,sales
+A1496,2026-09-11,europe,Pro Plan,2.0,$79.00,web
+A1497,14/03/2026,latam,Team Plan,2.0,$199.00,
+A1498,2026-02-15,North America,Add-on Storage,4.0,9.5,sales
+A1499,2026-07-10,europe,Basic Plan,5.0,$29.00,sales
+A1500,2026-05-26, LATAM ,Basic Plan,5.0,$29.00,
+A1501,2026-06-23, LATAM ,Basic Plan,2.0,29.0,sales
+A1502,2026-07-13, North America ,Basic Plan,5.0,$29.00,partner
+A1503,2026-04-11, Europe ,Pro Plan,3.0,$79.00,
+A1504,08/08/2026,europe,Add-on Storage,2.0,9.5,web
+A1505,2026-01-31, North America ,Team Plan,5.0,$199.00,partner
+A1506,2026-08-04,north america,Add-on Storage,,$9.50,partner
+A1507,2026-01-15, LATAM ,Add-on Storage,4.0,9.5,web
+A1508,2026-03-17, North America ,Team Plan,5.0,$199.00,
+A1509,2026-07-04,europe,Pro Plan,4.0,$79.00,partner
+A1510,2026-02-28, LATAM ,Basic Plan,5.0,29.0,web
+A1511,24/04/2026,North America,Add-on Storage,1.0,$9.50,partner
+A1512,2026-09-08, North America ,Basic Plan,2.0,$29.00,web
+A1513,2026-09-20,europe,Add-on Storage,1.0,9.5,web
+A1514,2026-08-14, Europe ,Basic Plan,5.0,$29.00,web
+A1515,2026-09-21, Europe ,Basic Plan,4.0,$29.00,sales
+A1516,2026-04-09,latam,Pro Plan,2.0,79.0,web
+A1517,2026-07-27,North America,Basic Plan,1.0,$29.00,sales
+A1518,24/08/2026,europe,Basic Plan,2.0,$29.00,web
+A1519,2026-04-14,Europe,Pro Plan,3.0,79.0,partner
+A1520,2026-06-24,europe,Add-on Storage,1.0,$9.50,web
+A1521,2026-05-03,europe,Pro Plan,5.0,$79.00,
+A1522,2026-01-23,north america,Add-on Storage,1.0,9.5,partner
+A1523,2026-02-27,europe,Basic Plan,2.0,$29.00,partner
+A1524,2026-04-09,latam,Team Plan,5.0,$199.00,web
+A1525,11/01/2026,LATAM,Pro Plan,3.0,79.0,sales
+A1526,2026-05-29,Europe,Add-on Storage,4.0,$9.50,partner
+A1527,2026-05-18,latam,Add-on Storage,1.0,$9.50,sales
+A1528,2026-09-07,LATAM,Pro Plan,1.0,79.0,sales
+A1529,2026-07-20,latam,Add-on Storage,,$9.50,sales
+A1530,2026-09-22,North America,Basic Plan,5.0,$29.00,partner
+A1531,2026-03-09,LATAM,Pro Plan,2.0,79.0,partner
+A1532,28/08/2026,north america,Basic Plan,4.0,$29.00,partner
+A1533,2026-01-04,North America,Basic Plan,3.0,$29.00,web
+A1534,2026-05-08, Europe ,Pro Plan,1.0,79.0,sales
+A1535,2026-03-15, North America ,Basic Plan,1.0,$29.00,partner
+A1536,2026-07-02,Europe,Pro Plan,5.0,$79.00,web
+A1537,2026-02-18, North America ,Add-on Storage,5.0,9.5,web
+A1538,2026-07-05, LATAM ,Add-on Storage,2.0,$9.50,web
+A1539,05/06/2026, North America ,Add-on Storage,3.0,$9.50,sales
+A1540,2026-06-29,europe,Add-on Storage,4.0,9.5,web
+A1541,2026-06-22,north america,Team Plan,5.0,$199.00,sales
+A1542,2026-05-01,LATAM,Add-on Storage,2.0,$9.50,web
+A1543,2026-08-21,north america,Pro Plan,5.0,79.0,sales
+A1544,2026-02-03,europe,Basic Plan,3.0,$29.00,partner
+A1545,2026-02-07, Europe ,Add-on Storage,1.0,$9.50,sales
+A1546,05/06/2026, North America ,Pro Plan,3.0,79.0,
+A1547,2026-02-04,north america,Add-on Storage,2.0,$9.50,partner
+A1548,2026-01-12,Europe,Team Plan,3.0,$199.00,web
+A1549,2026-04-22, North America ,Basic Plan,2.0,29.0,partner
+A1550,2026-09-14, LATAM ,Team Plan,2.0,$199.00,web
+A1551,2026-03-08, LATAM ,Pro Plan,1.0,$79.00,partner
+A1552,2026-03-11, North America ,Basic Plan,,29.0,web
+A1553,15/06/2026,latam,Add-on Storage,3.0,$9.50,web
+A1554,2026-09-06,Europe,Pro Plan,3.0,$79.00,web
+A1555,2026-08-01,latam,Add-on Storage,5.0,9.5,
+A1556,2026-07-24,North America,Basic Plan,1.0,$29.00,partner
+A1557,2026-06-10,Europe,Basic Plan,3.0,$29.00,web
+A1558,2026-01-10,LATAM,Basic Plan,5.0,29.0,partner
+A1559,2026-07-05, Europe ,Pro Plan,5.0,$79.00,sales
+A1560,19/06/2026, Europe ,Basic Plan,3.0,$29.00,
+A1561,2026-01-17, North America ,Team Plan,5.0,199.0,
+A1562,2026-05-23,Europe,Pro Plan,3.0,$79.00,partner
+A1563,2026-01-05,LATAM,Pro Plan,3.0,$79.00,sales
+A1564,2026-07-25, LATAM ,Team Plan,1.0,199.0,sales
+A1565,2026-03-04, Europe ,Basic Plan,2.0,$29.00,sales
+A1566,2026-05-13,North America,Add-on Storage,2.0,$9.50,sales
+A1567,28/09/2026,europe,Basic Plan,2.0,29.0,
+A1568,2026-04-20,north america,Pro Plan,4.0,$79.00,sales
+A1569,2026-06-15, LATAM ,Add-on Storage,1.0,$9.50,web
+A1570,2026-02-03,North America,Add-on Storage,3.0,9.5,sales
+A1571,2026-07-12,North America,Pro Plan,2.0,$79.00,partner
+A1572,2026-01-11,North America,Basic Plan,2.0,$29.00,partner
+A1573,2026-04-15,north america,Basic Plan,3.0,29.0,
+A1574,21/04/2026,latam,Add-on Storage,4.0,$9.50,sales
+A1575,2026-06-03,north america,Basic Plan,,$29.00,sales
+A1576,2026-03-24,europe,Basic Plan,5.0,29.0,sales
+A1577,2026-01-27,LATAM,Add-on Storage,3.0,$9.50,
+A1578,2026-04-04, LATAM ,Pro Plan,3.0,$79.00,web
+A1579,2026-02-27,latam,Basic Plan,2.0,29.0,sales
+A1580,2026-09-15,latam,Team Plan,2.0,$199.00,
+A1581,16/02/2026,europe,Pro Plan,4.0,$79.00,web
+A1582,2026-05-01,Europe,Basic Plan,1.0,29.0,sales
+A1583,2026-09-16, Europe ,Pro Plan,4.0,$79.00,web
+A1584,2026-01-11,North America,Basic Plan,1.0,$29.00,web
+A1585,2026-09-07,Europe,Add-on Storage,4.0,9.5,sales
+A1586,2026-04-25, LATAM ,Team Plan,5.0,$199.00,web
+A1587,2026-07-01,LATAM,Add-on Storage,3.0,$9.50,sales
+A1588,07/02/2026,latam,Basic Plan,1.0,29.0,partner
+A1589,2026-02-05,LATAM,Add-on Storage,5.0,$9.50,
+A1590,2026-07-05, North America ,Basic Plan,1.0,$29.00,
+A1591,2026-05-25, Europe ,Pro Plan,4.0,79.0,partner
+A1592,2026-07-24,europe,Pro Plan,4.0,$79.00,sales
+A1593,2026-07-18, North America ,Team Plan,2.0,$199.00,web
+A1594,2026-05-03, North America ,Pro Plan,5.0,79.0,
+A1595,04/05/2026,Europe,Add-on Storage,1.0,$9.50,web
+A1596,2026-01-26, Europe ,Pro Plan,3.0,$79.00,
+A1597,2026-06-11,europe,Pro Plan,1.0,79.0,
+A1598,2026-09-19,Europe,Basic Plan,,$29.00,
+A1599,2026-07-01,north america,Team Plan,5.0,$199.00,partner
+A1446,2026-02-14,North America,Basic Plan,4.0,$29.00,web
+A1404,2026-08-24,north america,Add-on Storage,5.0,$9.50,
+A1509,2026-07-04,europe,Pro Plan,4.0,$79.00,partner
+A1455,14/05/2026,north america,Pro Plan,5.0,$79.00,sales
+A1201,2026-01-21, LATAM ,Pro Plan,3.0,79.0,web
+A1023,2026-01-03, Europe ,Basic Plan,,$29.00,partner
+A1415,2026-02-26,north america,Pro Plan,4.0,$79.00,partner
+A1548,2026-01-12,Europe,Team Plan,3.0,$199.00,web
+A1066,2026-08-14, North America ,Team Plan,3.0,199.0,partner
+A1165,2026-02-23,North America,Add-on Storage,5.0,9.5,sales
+A1334,2026-09-06,latam,Add-on Storage,2.0,$9.50,web
+A1329,19/03/2026,north america,Pro Plan,5.0,$79.00,sales
+A1000,15/06/2026,North America,Add-on Storage,,9.5,web
+A1531,2026-03-09,LATAM,Pro Plan,2.0,79.0,partner
+A1232,2026-03-28,LATAM,Basic Plan,2.0,$29.00,partner
+A1200,2026-02-16, Europe ,Add-on Storage,5.0,$9.50,web
+A1147,01/08/2026,latam,Basic Plan,2.0,29.0,
+A1473,2026-05-24,north america,Pro Plan,4.0,$79.00,partner

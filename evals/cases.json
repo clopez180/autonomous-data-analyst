@@ -1,0 +1,17 @@
+[
+  {
+    "id": "top_region",
+    "question": "Which region generated the most revenue and how much?",
+    "reference": {"kind": "top_group", "group_by": "region", "value": "revenue", "agg": "sum"}
+  },
+  {
+    "id": "top_product_units",
+    "question": "Which product sold the most units?",
+    "reference": {"kind": "top_group", "group_by": "product", "value": "quantity", "agg": "sum"}
+  },
+  {
+    "id": "best_month",
+    "question": "What was the best month by revenue?",
+    "reference": {"kind": "top_month", "date": "order_date", "value": "revenue"}
+  }
+]
